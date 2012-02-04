@@ -1,0 +1,94 @@
+==Preview==
+<p>Ballistics - das schnellste Spiel der Welt! Jetzt ist hei&szlig;e Action angesagt, denn hier erreichst Du doppelte Schallgeschwindigkeit. Mach Dich bereit f&uuml;r Rennen mit 360&deg; Drehungen und tritt bei der Meisterschaft 2090 gegen die Besten an. Du wirst einen Adrenalinsto&szlig;nach dem anderen erleben....</p>
+
+==Text==
+<p><strong>Das Spiel</strong><br /></p>
+<p>Ballistics ist das schnellste Rennspiel aller Zeiten! Es ist die Formel 1 der Zukunft und somit der Traum f&uuml;r Freunde atemberaubender Geschwindigkeit. Die immer weiter fortschreitenden M&ouml;glichkeiten der modernen Technologie und die Sucht der Menschen nach immer ausgefalleneren, immer gef&auml;hrlicheren Abenteuern hat eine neue Form von Rennen hervorgebracht: die Ballistic-Rennen.</p>
+<p>Die Ballistic-Piloten steuern ihre Luftkissenboot-&auml;hnlichen Gef&auml;hrte innerhalb des f&uuml;r die Rennen vorgesehenen Kurses auf einem starken Magnetfeld. Full-Spin-Drehungen um 360 Grad sind hier nicht nur m&ouml;glich, sondern an der Tagesordnung und wesentlicher Bestandteil der Rennen. Die Wettbewerbe selbst finden in verschiedensten futuristischen Umgebungen statt, wobei jede Strecke ihr eigenes Design und ihre eigenen Charakteristika aufweist.</p>
+
+<p><strong>Features</strong><br /></strong></p>
+<ul>
+<li>Extreme-Speed-Rennen</li>
+<li>Kein Geschwindigkeitslimit: die Entscheidung, wie das Setup des Renngef&auml;hrtes aussehen soll, liegt beim Spieler, und es liegt an ihm, ob er die ungebremste Geschwindigkeit noch beherrschen kann</li>
+<li>Echtes 3D-Racing mit aufwendigen und spektakul&auml;ren Effekten</li>
+<li>7 ebenso detailreiche wie abwechslungsreiche Rennstrecken</li>
+<li>Eigene Racer lassen sich einfach selbst entwerfen: 40 Setup-Komponenten mit jeweils unterschiedlichen Eigenschaften und Charakteristika erlauben es dem Spieler, &uuml;ber 10.000 verschiedene Setup-Kombinationen auszuprobieren</li>
+<li>Satter Soundtrack heizt die Stimmung weiter an</li>
+<li>Multiplayer mit bis zu 8 Spielern &uuml;ber LAN und Internet.<br /><strong>&nbsp;</strong></li>
+</ul>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong><br /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+<br /></td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demofiles.linuxgamepublishing.com/ballistics/" target="_blank">Demo f&uuml;r Ballistics</a>, <a href="http://updatefiles.linuxgamepublishing.com/ballistics/">Updates f&uuml;r die Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/ballistics/" target="_blank">Updates f&uuml;r Ballistics</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>DVD und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong><strong>Minimale Systemanforderungen</strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>500 MHz x86 Prozessor<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 32MB Ram und korrekt installierten, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>256 MB<br /></td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>1.1 GB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>CD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
+

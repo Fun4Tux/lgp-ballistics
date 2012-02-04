@@ -1,0 +1,82 @@
+==Preview==
+<p>The year is 2090, and humankind has become a high tech society.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>The year is 2090, and humankind has become a high tech society. Diseases are gone, and almost everyone lives a comfortable and secure life. The world is simply a stable place. But when times are calm and money is plentiful, people always start to search for entertainment to fill their everyday lives with. Extreme sports have developed and Ballistics is one of the biggest. You are one of the contenders. You are a Ballistics Pilot, ready to throw yourself headlong into the most awesome speed sensation in the world! <br /><br />The Ballistics races evolved from the Formula One races. The Ballistics pilots are trained from their teens and, using electronic enhancers, their reflexes are much faster than any ordinary human. Wearing G-suits like fighter pilots, they set out to race in these insane speed fests in their hunt for fame and fortune. <br /><br />Not only do you race through high tech scenarios, as a pro league pilot you get to travel the world and compete with other daredevils in the most spectacular tracks ever built. Rushing through settings such as the Belize jungle, the Grand Canyon, and the city center of future Houston, you are in for some serious action and challenges. The tracks are built using tunnels that allow a racing surface that is curved and twisted in any direction. <br /><br />The Pilots who race in these tunnels are all using Speeders. Speeders are high tech hover bikes with a magnetic repel unit keeping them floating in the air when inside the track. To be able to keep the Speeders floating, a magnetic field has been generated close to the track walls. This magnetic field, called the MF by some, will keep the Speeder in the air, or if the pilot chooses to, it will keep the Speeder attached just a few millimeters from the wall. <br /><br />Being a Speeder pilot has its pros and cons. The pros include fame and good old hard cash for your performance. The cons being high speed impacts with concrete walls. Each race pays a fortune, and you certainly deserve it for throwing yourself into this furious racing grind.<br /></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating&nbsp;<br /></td>
+<td>3+<br /></td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demofiles.linuxgamepublishing.com/ballistics/" target="_blank">Demo for Ballistics</a>, <a href="http://updatefiles.linuxgamepublishing.com/ballistics/">Updates for the demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/ballistics/" target="_blank">Updates for Ballistics</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>500 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware accelerated 3D graphics card with 32 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>256 MB<br /></td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>1.1 GB<br /></td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>CD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
